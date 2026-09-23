@@ -1,3 +1,4 @@
+//E:\credit-risk-prediction\static\js\script.js
 // Coder UI Interactive Enhancements
 document.addEventListener("DOMContentLoaded", () => {
     const form = document.getElementById("predictionForm");
